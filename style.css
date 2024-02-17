@@ -1,0 +1,15 @@
+*{
+    font-family: monospace;
+}
+body{
+    background-color: darkolivegreen;
+}
+h1{
+    color: gray;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: chartreuse;
+    text-align: center;
+}
